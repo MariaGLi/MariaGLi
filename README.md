@@ -1,3 +1,5 @@
+![Imagen de WhatsApp 2025-03-06 a las 23 13 05_0f28fac4](https://github.com/user-attachments/assets/3e682123-82c8-4251-a969-7a0639c01be5)
+
 ## ¡Hola a todos! 👋
    
 Mi nombre es María Lizarazo Leal, tengo 25 años y soy del municipio de Tibú, Norte de Santander. Actualmente, estoy en proceso de obtener mi titulación como profesional en Administración de Empresas y, de manera paralela, me encuentro estudiando desarrollo web con Campus Lands. <br>
