@@ -10,9 +10,10 @@ Cuento con conocimientos en lenguajes de programación como Java, JavaScript, HT
    
 ## Lenguajes que uso:
 <div align = center>
-   |HTML 5|CSS 3|Javascript|Java|MySQL|PostgreSQL|SpringBoot|
-   |--|--|--|--|--|--|--|
-   |[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) |
+   
+|HTML 5|CSS 3|Javascript|Java|MySQL|PostgreSQL|SpringBoot|
+|--|--|--|--|--|--|--|
+|[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) |
 </div>
 
 <div align="center">
