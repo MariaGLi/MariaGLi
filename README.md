@@ -1,6 +1,6 @@
 <div align = center>
  
- <img src="https://github.com/user-attachments/assets/6e7ec765-f3ef-465e-b7d0-508d19fc500e" alt="image-removebg-preview" width="500"/>
+ <img src="https://github.com/user-attachments/assets/57bbbf4b-ae93-4be7-b4d7-bedfcc5343e5" alt="image" width="500"/>
 
 </div>
 
