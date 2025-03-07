@@ -1,4 +1,6 @@
-![Imagen de WhatsApp 2025-03-06 a las 23 13 05_0f28fac4](https://github.com/user-attachments/assets/3e682123-82c8-4251-a969-7a0639c01be5)
+<div width=15vw>
+   ![Logo](https://github.com/user-attachments/assets/3e682123-82c8-4251-a969-7a0639c01be5)
+</div>
 
 ## ¡Hola a todos! 👋
    
