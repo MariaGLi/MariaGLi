@@ -16,6 +16,8 @@ Cuento con conocimientos en lenguajes de programación como Java, JavaScript, HT
 |[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) |
 </div>
 
+## Estadísticas de mi GitHub 📊
+
 <div align="center">
    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MariaGLi&show_icons=true&theme=vision-friendly-dark"> <br>
    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGLi&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
