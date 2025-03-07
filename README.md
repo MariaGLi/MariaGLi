@@ -4,7 +4,7 @@ Mi nombre es María Lizarazo Leal, tengo 25 años y soy del municipio de Tibú, 
 
 Cuento con conocimientos en lenguajes de programación como Java, JavaScript, HTML y CSS, así como en bases de datos relacionales como MySQL y PostgreSQL. Me apasiona el aprendizaje continuo y la integración de la tecnología con la gestión empresarial, lo que me permite desarrollar soluciones innovadoras y eficientes en el ámbito digital.
 
-## Contacto <box-icon name='envelope' ></box-icon>
+## Contacto <i class='bx bx-envelope' ></i>
 
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/> -> lizarazoleal27@gmail.com
 
